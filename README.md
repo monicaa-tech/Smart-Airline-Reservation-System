@@ -1,7 +1,6 @@
 # Smart-Airline-Reservation-System
 A Python-based Airline Reservation System with SQLite database integration for managing flights, passengers, seat allocation, and meal preferences.
-# SkyReserve Pro – Airline Reservation System (Final Enhanced Version)
-# Works perfectly in Google Colab / Jupyter Notebook
+# SkyReserve Pro – Airline Reservation System
 
 import sqlite3
 import random
